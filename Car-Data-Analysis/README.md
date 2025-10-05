@@ -5,21 +5,21 @@ The goal is to identify missing values, handle them properly, analyze car makes,
 
 Objectives
 
-Find all null values in the dataset and replace them with the mean of their respective columns.
+1.Find all null values in the dataset and replace them with the mean of their respective columns.
 
-Check all the unique car makes (brands) present in the dataset and count their occurrences.
+2.Check all the unique car makes (brands) present in the dataset and count their occurrences.
 
-Filter and display all the records where the region is Asia or Europe.
+3.Filter and display all the records where the region is Asia or Europe.
 
-Remove unwanted or irrelevant records from the dataset.
+4.Remove unwanted or irrelevant records from the dataset.
 
 🔹Tools & Libraries Used
 
-Python 3
+1. Python 3
 
-Pandas → Data cleaning, manipulation, and filtering
+2. Pandas → Data cleaning, manipulation, and filtering
 
-Jupyter Notebook
+3. Jupyter Notebook
 
 🔹Dataset
 
@@ -38,11 +38,11 @@ Open the Jupyter Notebook file Car_Data_Analysis.ipynb and run all the cells seq
 
 🔹Key Insights
 
-Missing values handled using column means.
+1. Missing values handled using column means.
 
-Identified most common car brands in the dataset.
+2. Identified most common car brands in the dataset.
 
-Extracted and analyzed car data for Asia and Europe regions.
+3. Extracted and analyzed car data for Asia and Europe regions.
 
 🔹Conclusion
 
